@@ -3,7 +3,7 @@
 #define IN	0
 #define OUT 1
 
-main()
+int main()
 {
 	int state;
 	int length, max;
